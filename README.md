@@ -28,3 +28,16 @@ Configuration for vim (~/.vimrc) and neovim (~/.config/nvim/init.vim)
 * majutsushi/tagbar
 * godlygeek/tabular
 * plasticboy/vim-markdown
+
+# .spacemacs
+Configuration for spacemacs (community driven configuration for emacs)
+
+## Plugins:
+* helm
+* auto-completion
+* emacs-lisp
+* git
+* markdown
+
+## Colorscheme:
+gruvbox
